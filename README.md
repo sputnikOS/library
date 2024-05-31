@@ -1,1 +1,1 @@
-# Cyber Citizens Resources 
+# Open-Source Cyber Citizen: Operations and Field Training Manual
