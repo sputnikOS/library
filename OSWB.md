@@ -1,10 +1,8 @@
-![[# Cyber Citizens Without Borders
 
 ## "Expect to Self-Rescue: Liberation trhough Open-Source"
 
 [Spotify Audiobooks ](https://open.spotify.com/playlist/3Jd7c61b5HIlv9nZF1po60?si=jEr5dNRkT9WFroCRSpL16A)
 
-# 
 #### Virtual Machines & Docker
 [LinuxServer.io](https://www.linuxserver.io)
 
@@ -17,7 +15,5 @@
 
 
 #### Education & Training 
-[Open Source Software University ]()
-[CIS 5930 Offensive Network Security
-Spring 2017](https://www.cs.fsu.edu/~liux/courses/offensivenetsec/index.html)obsidian://open?vault=Main&file=OSWB
-]]
+[Open Source Software University ](https://github.com/ossu)
+[CIS 5930 Offensive Network Security Spring 2017](https://www.cs.fsu.edu/~liux/courses/offensivenetsec/index.html)
